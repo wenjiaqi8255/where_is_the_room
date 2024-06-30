@@ -394,7 +394,8 @@ https://www.google.com/maps/d/edit?mid=13hmeqxwm5Kcg2QvXKO-DBgKY-IDv4Kg&usp=shar
 
 ### 使用Python和Folium进行可视化（可选）
 
-如果您想在本地或通过Web应用程序进行更高级的可视化，您可以使用Python的Folium库。Folium是一个强大的Python库，可以生成基于Leaflet.js的地图。见Jupyter笔记
+如果想在本地或通过Web应用程序进行更高级的可视化，可以使用Python的Folium库。Folium是一个强大的Python库，可以生成基于Leaflet.js的地图。见Jupyter笔记
+
 <img width="542" alt="image" src="https://github.com/wenjiaqi8255/where_is_the_room/assets/127540860/5aa54f3f-434c-4a4e-84cd-78ba006e3d54">
 
 https://wenjiaqi8255.github.io/where_is_the_room/transit_times_map.html
