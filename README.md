@@ -2,8 +2,10 @@
 💡 English version is below
 </aside>
 
-also see in my website: https://wenjiaqi.notion.site/10-30-Mark-30-student-dormitories-in-Munich-on-Google-Maps-in-10-minutes-53c4586995f44b40b0961bdb5638958e?pvs=4
+also see this in my website: https://wenjiaqi.notion.site/10-30-Mark-30-student-dormitories-in-Munich-on-Google-Maps-in-10-minutes-53c4586995f44b40b0961bdb5638958e?pvs=4
 
+
+# A. 爬数据并借用谷歌地图可视化 / Scrape data and visualize using Google Maps
 
 # 0. 介绍 / Introduction
 
@@ -386,3 +388,15 @@ Me: I now have a series of longitude and latitude coordinates, how do I mark the
 https://www.google.com/maps/d/edit?mid=13hmeqxwm5Kcg2QvXKO-DBgKY-IDv4Kg&usp=sharing
 
 点击⬆️右键original跳转到谷歌地图
+
+# B. 进一步：通勤时间可视化
+
+### 使用Python和Folium进行可视化（可选）
+
+如果您想在本地或通过Web应用程序进行更高级的可视化，您可以使用Python的Folium库。Folium是一个强大的Python库，可以生成基于Leaflet.js的地图。见Jupyter笔记
+
+# B. Further: Commute Time Visualization
+
+### Using Python and Folium for visualization (optional)
+
+If you want more advanced visualization locally or through a web application, you can use the Folium library of Python. Folium is a powerful Python library that can generate maps based on Leaflet.js. See Jupyter notes.
