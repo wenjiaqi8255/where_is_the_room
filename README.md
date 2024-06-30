@@ -384,19 +384,25 @@ Me: I now have a series of longitude and latitude coordinates, how do I mark the
 > 
 
 # 2. 结果 / Outcome
+<img width="1508" alt="image" src="https://github.com/wenjiaqi8255/where_is_the_room/assets/127540860/73c68d9f-89be-46b8-9c8e-9e783c392373">
 
 https://www.google.com/maps/d/edit?mid=13hmeqxwm5Kcg2QvXKO-DBgKY-IDv4Kg&usp=sharing
 
-点击⬆️右键original跳转到谷歌地图
+点击⬆️跳转到谷歌地图
 
 # B. 进一步：通勤时间可视化
 
 ### 使用Python和Folium进行可视化（可选）
 
 如果您想在本地或通过Web应用程序进行更高级的可视化，您可以使用Python的Folium库。Folium是一个强大的Python库，可以生成基于Leaflet.js的地图。见Jupyter笔记
+<img width="542" alt="image" src="https://github.com/wenjiaqi8255/where_is_the_room/assets/127540860/5aa54f3f-434c-4a4e-84cd-78ba006e3d54">
+
+https://wenjiaqi8255.github.io/where_is_the_room/transit_times_map.html
 
 # B. Further: Commute Time Visualization
 
-### Using Python and Folium for visualization (optional)
+### Using Python and Folium for visualization 
 
 If you want more advanced visualization locally or through a web application, you can use the Folium library of Python. Folium is a powerful Python library that can generate maps based on Leaflet.js. See Jupyter notes.
+
+https://wenjiaqi8255.github.io/where_is_the_room/transit_times_map.html
